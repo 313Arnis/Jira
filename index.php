@@ -22,3 +22,4 @@ echo "Es gribu iet uz restorānu";
 echo "Es gribu iet uz sporta zāli";
 echo "Es gribu iet uz bibliotēku";
 echo "Es gribu iet uz muzeju";
+echo "ble nahuj nahuj ble suka nahuj";
