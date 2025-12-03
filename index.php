@@ -17,7 +17,6 @@ echo "Es gribu iet uz mājām";
 echo "Es gribu iet uz kino";
 echo "Es gribu iet uz ballīti";
 echo "Es gribu iet uz pludmali";
-echo "Es gribu iet uz parku";
 echo "Es gribu iet uz restorānu";
 echo "Es gribu iet uz sporta zāli";
 echo "Es gribu iet uz bibliotēku";
